@@ -1,0 +1,8 @@
+C:\Users\hamst\source\repos\Zadaniee\Zadaniee\bin\Debug\Zadaniee.exe.config
+C:\Users\hamst\source\repos\Zadaniee\Zadaniee\bin\Debug\Zadaniee.exe
+C:\Users\hamst\source\repos\Zadaniee\Zadaniee\bin\Debug\Zadaniee.pdb
+C:\Users\hamst\source\repos\Zadaniee\Zadaniee\obj\Debug\Zadaniee.csproj.AssemblyReference.cache
+C:\Users\hamst\source\repos\Zadaniee\Zadaniee\obj\Debug\Zadaniee.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamst\source\repos\Zadaniee\Zadaniee\obj\Debug\Zadaniee.csproj.CoreCompileInputs.cache
+C:\Users\hamst\source\repos\Zadaniee\Zadaniee\obj\Debug\Zadaniee.exe
+C:\Users\hamst\source\repos\Zadaniee\Zadaniee\obj\Debug\Zadaniee.pdb
